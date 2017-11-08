@@ -36,12 +36,12 @@ $lang = array_merge($lang, array(
 	'READ_MEMBERS_PM'			=> 'Ler MP',
 	'READ_MEMBERS_PM_TO'		=> 'Para',
 	'READ_MEMBERS_PM_FROM'		=> 'De',
-	'NO_MEMBERS_PM'				=> 'Não há mensagens privadas',
+	'NO_MEMBERS_PM'				=> 'Sem mensagens privadas',
 	'READ_MEMBERS_PM_BACK'		=> 'Voltar a ver pelo assunto da MP',
 	'VIEWING_READMEMBERSPM'		=> 'Tente ver as mensagens privadas dos usuários',
 	//Pagination
 	'LIST_PM'		=>	array(
-		1 => '%s conversação',
-		2 => '%s conversações',
+		1 => '%s conversa',
+		2 => '%s conversas',
 	),
 ));
